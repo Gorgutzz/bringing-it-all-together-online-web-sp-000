@@ -66,7 +66,4 @@ class Dog
   end
 
 
-
-
-
 end

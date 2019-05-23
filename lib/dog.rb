@@ -90,6 +90,4 @@ class Dog
     DB[:conn].prepare(sql).execute(self.name, self.breed, self.id)
   end
 
-
-
 end
